@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="../dist/tokens.css"><link rel="stylesheet" href="../system/components/bundle.css">
+<meta charset="utf-8">
+<title>Operation Forward</title>
+<style>
+  html, body { margin:0; height:100%; }
+  body { background:var(--lms-paper); color:var(--lms-ink); overflow:hidden; }
+  .cv { position:relative; width:960px; height:288px; overflow:hidden; }
+  .cv svg { position:absolute; left:0; top:0; display:block; }
+  .cv-clay { fill:var(--lms-accent); }
+  .cv-teal { fill:var(--lms-secondary); }
+  .cv-ink { fill:var(--lms-ink); }
+  .cv-tint { fill:var(--lms-accent-container); }
+  .cv-card { rx:var(--lms-radius-card); }
+  .cv-words { position:absolute; left:24px; bottom:22px; max-width:440px; }
+  .cv-name { margin:0; font-family:var(--font-display); font-size:88px; line-height:.95; font-weight:600; font-variation-settings:'SOFT' 100; letter-spacing:-0.012em; color:var(--lms-ink); }
+  .cv-tag { margin:12px 0 0 3px; font-family:var(--font-body); font-size:14px; line-height:20px; color:var(--lms-muted); }
+</style>
+</head>
+<body>
+<div class="cv">
+<svg viewBox="0 0 960 288" width="960" height="288" aria-hidden="true">
+<!--
+  blocks      lms-accent (Forward Clay) 200x216 slab bled off the top, the largest · lms-secondary (Forward Teal) 120x152 bled off the top · lms-ink 144x104 bled off the top and right · lms-accent-container tint 280x160 bled off the bottom and right · about 45% of 960x288
+  arrangement one tall clay slab with satellites stepping right and down, all right of x = 480, the name on two lines at 88px in Fraunces
+  pattern     the charity's forward chevrons: a teal and a clay chevron (the logo's pair, cut with the hero motif's clip-path, 0 0 / 42% 0 / 100% 50% / 42% 100% / 0 100% / 58% 50%) standing on the tint, because the README makes the chevron the charity's motif and teal-then-clay the pair that reads "moving forward"
+  scales      chevrons 54x78 (1.5 x the hero motif's 36x52), gap lms-space-1 x 1.5, block gutters lms-space-4, inset lms-space-6; corners lms-radius-card on every block
+-->
+<rect class="cv-clay cv-card" x="480" y="-16" width="200" height="216"/>
+<rect class="cv-teal cv-card" x="696" y="-16" width="120" height="152"/>
+<rect class="cv-ink cv-card" x="832" y="-16" width="144" height="104"/>
+<rect class="cv-tint cv-card" x="696" y="152" width="280" height="160"/>
+<polygon class="cv-teal" points="744,184 766.7,184 798,223 766.7,262 744,262 775.3,223"/>
+<polygon class="cv-clay" points="804,184 826.7,184 858,223 826.7,262 804,262 835.3,223"/>
+</svg>
+<div class="cv-words">
+<h1 class="cv-name">Operation Forward</h1>
+<p class="cv-tag">Skills that move people forward.</p>
+</div>
+</div>
+</body>
+</html>

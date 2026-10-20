@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="../dist/tokens.css"><link rel="stylesheet" href="../system/components/bundle.css"><meta charset="utf-8"><title>Dialog preview</title></head>
+<body>
+<div class="pv"><button class="lms-btn outlined" type="button">Sign out of all other devices</button>
+<dialog class="lms-dialog" id="dlg" role="alertdialog" aria-labelledby="dlg-t" aria-describedby="dlg-d"><form method="dialog">
+  <h2 id="dlg-t">Sign out of all other devices?</h2>
+  <div class="content"><p id="dlg-d">Anyone using your account elsewhere will need to sign in again. You'll stay signed in here.</p></div>
+  <div class="actions"><button class="lms-btn text" value="cancel" autofocus>Cancel</button><button class="lms-btn filled" value="ok">Sign out others</button></div>
+</form></dialog></div>
+<script>document.getElementById("dlg").show();</script>
+</body>
+</html>

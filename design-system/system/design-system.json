@@ -1,0 +1,353 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-19T19:17:32Z"
+ },
+ "title": "Operation Forward",
+ "namespace": "OperationForward",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Icons"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "l",
+   "order": [
+    "logo-horizontal.svg",
+    "logo-horizontal-reversed.svg",
+    "logo-horizontal-ink.svg",
+    "logo-horizontal-white.svg",
+    "logo-stacked.svg",
+    "logo-stacked-reversed.svg",
+    "mark.svg",
+    "mark-reversed.svg",
+    "mark-ink.svg",
+    "mark-white.svg",
+    "app-icon.svg",
+    "social-card.svg"
+   ],
+   "files": {
+    "logo-horizontal.svg": {
+     "name": "logo-horizontal.svg",
+     "blob": "f55220ced3d77b82ecfff5b1435b3418",
+     "size": 15997,
+     "type": "image/svg+xml"
+    },
+    "logo-horizontal-reversed.svg": {
+     "name": "logo-horizontal-reversed.svg",
+     "blob": "d5bcf369ab1f976e8b3ac2506ca6b283",
+     "size": 15997,
+     "type": "image/svg+xml"
+    },
+    "logo-horizontal-ink.svg": {
+     "name": "logo-horizontal-ink.svg",
+     "blob": "1524d6b926bbc08fd40efa8558b80526",
+     "size": 15997,
+     "type": "image/svg+xml"
+    },
+    "logo-horizontal-white.svg": {
+     "name": "logo-horizontal-white.svg",
+     "blob": "c3766b8f1a4423c9eeb2ce07b1fa07a2",
+     "size": 15997,
+     "type": "image/svg+xml"
+    },
+    "logo-stacked.svg": {
+     "name": "logo-stacked.svg",
+     "blob": "679b3346bc77ec65b71cd58e627ecc8c",
+     "size": 15760,
+     "type": "image/svg+xml"
+    },
+    "logo-stacked-reversed.svg": {
+     "name": "logo-stacked-reversed.svg",
+     "blob": "05441708ac773d3d97ef2ce0b0640d40",
+     "size": 15760,
+     "type": "image/svg+xml"
+    },
+    "mark.svg": {
+     "name": "mark.svg",
+     "blob": "a37f8897a496781329f9995ea53a6143",
+     "size": 360,
+     "type": "image/svg+xml"
+    },
+    "mark-reversed.svg": {
+     "name": "mark-reversed.svg",
+     "blob": "bfca167d4c7f3f2eedc61f46dad2ebad",
+     "size": 360,
+     "type": "image/svg+xml"
+    },
+    "mark-ink.svg": {
+     "name": "mark-ink.svg",
+     "blob": "455300d1bbbeb42a176e7b2e7d418c1d",
+     "size": 360,
+     "type": "image/svg+xml"
+    },
+    "mark-white.svg": {
+     "name": "mark-white.svg",
+     "blob": "61f186df403b54b9cba34e500892b7b4",
+     "size": 360,
+     "type": "image/svg+xml"
+    },
+    "app-icon.svg": {
+     "name": "app-icon.svg",
+     "blob": "430d3c1cb7fefa4108c86746126932a4",
+     "size": 456,
+     "type": "image/svg+xml"
+    },
+    "social-card.svg": {
+     "name": "social-card.svg",
+     "blob": "cadda2b3f3fefde83803c278277022f6",
+     "size": 16101,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Icons": {
+   "name": "Icons",
+   "tile": "xs",
+   "order": [
+    "account-circle.svg",
+    "add.svg",
+    "arrow-forward.svg",
+    "bookmark.svg",
+    "calendar-month.svg",
+    "celebration.svg",
+    "check-circle.svg",
+    "chevron-right.svg",
+    "delete.svg",
+    "download.svg",
+    "edit.svg",
+    "error.svg",
+    "event.svg",
+    "flag.svg",
+    "forum.svg",
+    "group.svg",
+    "help.svg",
+    "info.svg",
+    "lightbulb.svg",
+    "lock.svg",
+    "menu-book.svg",
+    "more-vert.svg",
+    "notifications.svg",
+    "quiz.svg",
+    "schedule.svg",
+    "school.svg",
+    "search.svg",
+    "slideshow.svg",
+    "timer.svg",
+    "verified.svg",
+    "warning.svg",
+    "workspace-premium.svg"
+   ],
+   "files": {
+    "account-circle.svg": {
+     "name": "account-circle.svg",
+     "blob": "796d7e54309f772e9884e8a028b5849f",
+     "size": 786,
+     "type": "image/svg+xml"
+    },
+    "add.svg": {
+     "name": "add.svg",
+     "blob": "77d5bbcd59e41bef9be762405fec6161",
+     "size": 351,
+     "type": "image/svg+xml"
+    },
+    "arrow-forward.svg": {
+     "name": "arrow-forward.svg",
+     "blob": "ebd18285fc751fb4c07efa404a9b4503",
+     "size": 346,
+     "type": "image/svg+xml"
+    },
+    "bookmark.svg": {
+     "name": "bookmark.svg",
+     "blob": "cf0ffa7b3f9f1212d408bb4e18561334",
+     "size": 248,
+     "type": "image/svg+xml"
+    },
+    "calendar-month.svg": {
+     "name": "calendar-month.svg",
+     "blob": "bcdd07167a501d97067ee5abd4ab3765",
+     "size": 1054,
+     "type": "image/svg+xml"
+    },
+    "celebration.svg": {
+     "name": "celebration.svg",
+     "blob": "a853237d166534eab7e381635c6189c9",
+     "size": 835,
+     "type": "image/svg+xml"
+    },
+    "check-circle.svg": {
+     "name": "check-circle.svg",
+     "blob": "6fc5a55e0064fcef7a8a0fb87821d5bc",
+     "size": 542,
+     "type": "image/svg+xml"
+    },
+    "chevron-right.svg": {
+     "name": "chevron-right.svg",
+     "blob": "97fab7132f8a09470e2be73f5e993ba1",
+     "size": 276,
+     "type": "image/svg+xml"
+    },
+    "delete.svg": {
+     "name": "delete.svg",
+     "blob": "bafd6901a32b38c925faba975d59fefb",
+     "size": 625,
+     "type": "image/svg+xml"
+    },
+    "download.svg": {
+     "name": "download.svg",
+     "blob": "e6b1f4930c7aecddb7b64ac5162e2541",
+     "size": 525,
+     "type": "image/svg+xml"
+    },
+    "edit.svg": {
+     "name": "edit.svg",
+     "blob": "43b1d5d2204d87971727787a9d949fe5",
+     "size": 392,
+     "type": "image/svg+xml"
+    },
+    "error.svg": {
+     "name": "error.svg",
+     "blob": "43d65c05e7bc2c4639371f991ecc4c4c",
+     "size": 643,
+     "type": "image/svg+xml"
+    },
+    "event.svg": {
+     "name": "event.svg",
+     "blob": "fc4dd97ac50de435e722ce44870ad306",
+     "size": 493,
+     "type": "image/svg+xml"
+    },
+    "flag.svg": {
+     "name": "flag.svg",
+     "blob": "c7725c99221724c2f7630166567840f2",
+     "size": 411,
+     "type": "image/svg+xml"
+    },
+    "forum.svg": {
+     "name": "forum.svg",
+     "blob": "2e31c2a9bc66f72083b73336fa5af52e",
+     "size": 457,
+     "type": "image/svg+xml"
+    },
+    "group.svg": {
+     "name": "group.svg",
+     "blob": "f2ea20b896d82732b74e7dd04d6a285e",
+     "size": 882,
+     "type": "image/svg+xml"
+    },
+    "help.svg": {
+     "name": "help.svg",
+     "blob": "d0d36b6c89dfcb36a7c0b81fc072c784",
+     "size": 790,
+     "type": "image/svg+xml"
+    },
+    "info.svg": {
+     "name": "info.svg",
+     "blob": "91169442964efe0367e7bc12326f59da",
+     "size": 643,
+     "type": "image/svg+xml"
+    },
+    "lightbulb.svg": {
+     "name": "lightbulb.svg",
+     "blob": "284b30f6b9ff929e650b586068fee0ac",
+     "size": 516,
+     "type": "image/svg+xml"
+    },
+    "lock.svg": {
+     "name": "lock.svg",
+     "blob": "3df0f5c8c9993926a8e83b8f878858fe",
+     "size": 513,
+     "type": "image/svg+xml"
+    },
+    "menu-book.svg": {
+     "name": "menu-book.svg",
+     "blob": "6c8020db1e7287741bbc208f6a258d07",
+     "size": 1166,
+     "type": "image/svg+xml"
+    },
+    "more-vert.svg": {
+     "name": "more-vert.svg",
+     "blob": "319d1bec04ab08965a897ac57714136a",
+     "size": 424,
+     "type": "image/svg+xml"
+    },
+    "notifications.svg": {
+     "name": "notifications.svg",
+     "blob": "858a37802aa72f1ea4bc5ab14ccc9ee5",
+     "size": 470,
+     "type": "image/svg+xml"
+    },
+    "quiz.svg": {
+     "name": "quiz.svg",
+     "blob": "acfc0eca26125e676b49a6006bc8695a",
+     "size": 793,
+     "type": "image/svg+xml"
+    },
+    "schedule.svg": {
+     "name": "schedule.svg",
+     "blob": "fce8688e57ac5360738a4a7c87a7981f",
+     "size": 562,
+     "type": "image/svg+xml"
+    },
+    "school.svg": {
+     "name": "school.svg",
+     "blob": "fe1c5d6d9707c42e46693db526d5b375",
+     "size": 580,
+     "type": "image/svg+xml"
+    },
+    "search.svg": {
+     "name": "search.svg",
+     "blob": "ab9d7d8d275fb10bcec5ec295cc85cb1",
+     "size": 403,
+     "type": "image/svg+xml"
+    },
+    "slideshow.svg": {
+     "name": "slideshow.svg",
+     "blob": "298a71c4e76f4b80b49a09735da911fb",
+     "size": 364,
+     "type": "image/svg+xml"
+    },
+    "timer.svg": {
+     "name": "timer.svg",
+     "blob": "5980a40fb30ced064e217e608b670d02",
+     "size": 720,
+     "type": "image/svg+xml"
+    },
+    "verified.svg": {
+     "name": "verified.svg",
+     "blob": "031661b2577cef5d176b5313ef3cd096",
+     "size": 761,
+     "type": "image/svg+xml"
+    },
+    "warning.svg": {
+     "name": "warning.svg",
+     "blob": "47782ef508b9f363d3be1154d2c192e4",
+     "size": 546,
+     "type": "image/svg+xml"
+    },
+    "workspace-premium.svg": {
+     "name": "workspace-premium.svg",
+     "blob": "797a783a81a65eb3faaf45a880df6716",
+     "size": 609,
+     "type": "image/svg+xml"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "Jeremiah Price",
+  "at": "2026-10-19T19:17:32Z",
+  "via": "GitHub · Operation-Forward/opfor-lms-frontend@8ac8485",
+  "note": "Created from the LMS frontend and the charity logo kit: 28 colours x 2 themes, 3 typefaces, spacing, radii, widths, 12 logos, 32 icons, 13 components"
+ }
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Operation Forward design</title>
+<meta name="description" content="Operation Forward's logo kit and design system.">
+<meta property="og:image" content="https://operation-forward.github.io/opfor-design/brand/png/social-card-1200x630.png">
+<link rel="icon" href="brand/favicon.ico" sizes="any">
+<link rel="icon" href="brand/svg/app-icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="design-system/dist/tokens.css">
+<style>
+  body { margin: 0; background: var(--lms-paper); color: var(--lms-ink); font-family: var(--font-body); }
+  main { max-width: 48rem; margin: 0 auto; padding: 48px 16px; }
+  img { width: min(420px, 100%); height: auto; }
+  h1 { font-family: var(--font-display); font-size: 2rem; margin: 32px 0 8px; }
+  ul { padding-left: 1.2rem; line-height: 1.8; }
+  a { color: inherit; }
+  .dark { display: none; }
+  @media (prefers-color-scheme: dark) { .light { display: none; } .dark { display: inline; } }
+</style>
+</head>
+<body>
+<main>
+  <img class="light" src="brand/svg/logo-horizontal.svg" alt="Operation Forward">
+  <img class="dark" src="brand/svg/logo-horizontal-reversed.svg" alt="Operation Forward">
+  <h1>Design</h1>
+  <p>Logo kit and design system for everything Operation Forward makes.</p>
+  <ul>
+    <li><a href="design-system/previews/">Component previews</a></li>
+    <li><a href="https://github.com/Operation-Forward/opfor-design/blob/main/design-system/system/README.md">Brand book</a></li>
+    <li><a href="https://github.com/Operation-Forward/opfor-design/blob/main/brand/README.md">Logo guide and downloads</a></li>
+  </ul>
+</main>
+</body>
+</html>
